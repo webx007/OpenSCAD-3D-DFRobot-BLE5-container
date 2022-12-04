@@ -1,0 +1,25 @@
+#+TITLE: OpenSCAD 3D Container for DFRobot Bluetooth 5.0 Audio Receiver Board
+#+OPTIONS: ^:{}
+* 3D Container for DFRobot Bluetooth 5.0 Audio Receiver Board
+Parameterised 3D container for bluetooth receiver board. See [[file:dfrobot_ble5_receiver.scad]]
+- OpenSCAD Version :: v2021.01
+- Printer :: AnyCubic Photon Mono
+- Resin :: eSun standard grey
+  
+#+CAPTION: OpenSCAD Rendered Container
+#+ATTR_HTML: :alt USB Serial TTL board :align  :title OpenSCAD Rendered Container :align center                                                                          
+#+ATTR_HTML: :width 50% :height 50%
+[[file:img/render_ab.png]]
+
+
+#+CAPTION: DFRobot Bluetooth 5.0 Audio Receiver Board
+#+ATTR_HTML: :alt USB Serial TTL board :align :title DFRobot Bluetooth 5.0 Audio Receiver Board :align center                                                                          
+#+ATTR_HTML: :width 35% :height 35% 
+[[file:img/dfrobot_ble5_receiver.png]]
+For board details see [[https://www.dfrobot.com/product-2085.html][product page]].
+#+CAPTION: Printed  Container
+#+ATTR_HTML: :alt Printed Container :align  :title Printed Container :align center                                                                          
+#+ATTR_HTML: :width 50% :height 50%
+[[file:img/final.jpeg]]
+
+
